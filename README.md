@@ -12,9 +12,9 @@ I'm a Ruby on Rails developer who interseted in all web's technologies.
 
 ## Stats
 
-[![Ahmed Abdelhamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhamid13&show_icons=true&theme=dark)]()
+[![Ahmed Abdelhamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhamid13&show_icons=true&theme=dark)](https://github.com/ahmedhamid13/ahmedhamid13)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamid13&show_icons=true&theme=dark&hide=html,css,blade&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamid13&show_icons=true&theme=dark&hide=html,css,blade&layout=compact)](https://github.com/ahmedhamid13/ahmedhamid13)
 
 ## Let's connect!
 
