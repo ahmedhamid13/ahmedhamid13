@@ -7,10 +7,8 @@ I'm a Ruby on Rails developer who interseted in all web's technologies.
 
 ### Stats:
 
-<center>
-  [![Ahmed Abdelhamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhamid13&show_icons=true&theme=dark)]()
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamid13&show_icons=true&theme=dark&hide=html,css,blade&layout=compact)]()
-</center>
+[![Ahmed Abdelhamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhamid13&show_icons=true&theme=dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamid13&show_icons=true&theme=dark&hide=html,css,blade&layout=compact)]()
 
 <!--
 **ahmedhamid13/ahmedhamid13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
