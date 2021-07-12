@@ -16,7 +16,7 @@ I'm a Full-Stack Ruby on Rails developer who interseted in all web's technologie
 
 ### Package Managers
 
-[![Package: RubyGem](https://img.shields.io/badge/Package-RubyGem-red?&logo=rubygems)](https://rubygems.org/) [![Package: Composer](https://img.shields.io/badge/Package-Composer-black?&logo=composer)](https://getcomposer.org/) [![Package: Npm](https://img.shields.io/badge/Package-Npm-red?&logo=npm&logoColor=red)](https://www.npmjs.com/) [![Package: Yarn](https://img.shields.io/badge/Library-yarn-blue?&logo=yarn)](https://yarnpkg.com/)
+[![Package: RubyGem](https://img.shields.io/badge/Package-RubyGem-red?&logo=rubygems)](https://rubygems.org/) [![Package: Composer](https://img.shields.io/badge/Package-Composer-black?&logo=composer)](https://getcomposer.org/) [![Package: Npm](https://img.shields.io/badge/Package-Npm-red?&logo=npm&logoColor=red)](https://www.npmjs.com/) [![Package: Yarn](https://img.shields.io/badge/Package-yarn-blue?&logo=yarn)](https://yarnpkg.com/)
 
 ### BackEnd Frameworks 
 
