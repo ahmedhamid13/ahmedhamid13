@@ -2,6 +2,12 @@
 
 I'm a Full-Stack Ruby on Rails developer who interseted in all web's technologies, I have worked on many web's projects with different business aspect as (E-Commerce, E-Learning, Booking, Freelance and Lms).
 
+## Stats
+
+[![Ahmed Abdelhamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhamid13&show_icons=true&theme=dark)](https://github.com/ahmedhamid13/ahmedhamid13)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamid13&show_icons=true&theme=dark&hide=html,css,blade&layout=compact)](https://github.com/ahmedhamid13/ahmedhamid13)
+
 ## Tools
 
 ### BackEnd Languages
@@ -51,12 +57,6 @@ I'm a Full-Stack Ruby on Rails developer who interseted in all web's technologie
 ### Other
 
 [![Docker](https://img.shields.io/badge/Docker-grey?&logo=docker)](https://www.docker.com/)
-
-## Stats
-
-[![Ahmed Abdelhamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhamid13&show_icons=true&theme=dark)](https://github.com/ahmedhamid13/ahmedhamid13)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamid13&show_icons=true&theme=dark&hide=html,css,blade&layout=compact)](https://github.com/ahmedhamid13/ahmedhamid13)
 
 ## Let's connect!
 
