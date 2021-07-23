@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Ahmed Abdelhamid!
 
-I'm a Full-Stack Ruby on Rails developer who interseted in all web's technologies, I have worked on many web's projects with different business aspect as (E-Commerce, E-Learning, Booking, Freelance and Lms).
+I'm a Full-Stack Ruby on Rails developer who interseted in all web's technologies, I have worked with many technologies on many web's projects with different business aspect as (E-Commerce, E-Learning, LMS, Booking, and Freelance).
 
 ## Stats
 
