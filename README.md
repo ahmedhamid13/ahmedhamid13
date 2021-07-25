@@ -62,7 +62,7 @@ I'm a Full-Stack Ruby on Rails developer who interseted in all web's technologie
 
 [![Connect: LinkedIn](https://img.shields.io/badge/Ahmed_Abdelhamid-30302f?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ahmed-abdelhamd/)
 [![Check: CV](https://img.shields.io/badge/CV-Ahmed_Abdelhamid-orange)](https://drive.google.com/file/d/1UAh4vJ5mb3tBEaYWIzjHV-FcDOM8ffFI/view?usp=sharing)
-[![RubyGems](https://img.shields.io/badge/Account-RubyGem-red?&logo=rubygems)](https://rubygems.org/profiles/Ahmed_Abdelhamid)
+[![RubyGems](https://img.shields.io/badge/Account-RubyGem-red?&logo=rubygems)](https://rubygems.org/profiles/ahmedhamid13)
 
 <!--
 **ahmedhamid13/ahmedhamid13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
