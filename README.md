@@ -8,6 +8,21 @@ I'm a Full-Stack Ruby on Rails developer who interseted in all web's technologie
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamid13&show_icons=true&theme=dark&hide=html,css,blade&layout=compact)](https://github.com/ahmedhamid13/ahmedhamid13)
 
+## Some Projects
+
+- [ClassShare](https://class-share.herokuapp.com/)
+- [SolarCo](https://solarco.herokuapp.com/)
+- [Airline](https://airline-syst.herokuapp.com/)
+- [WeTrip](https://we-trip.herokuapp.com/)
+- [Bankey](http://bankie.herokuapp.com/)
+- [SouCom](https://ecommerce-zamn-rails.herokuapp.com/)
+- [PharmacySystem](http://pharmacy-syst.herokuapp.com/)
+- [NoteApp](https://note-ruby.herokuapp.com/)
+- [ToDoApp](https://todo-nodejs.glitch.me/)
+- [BookStore](https://booki-store.herokuapp.com/)
+- [E-Commerce-API](https://api-ecomm.herokuapp.com/)
+- [CollegeTogether](https://college-together.herokuapp.com//)
+
 ## Tools
 
 ### BackEnd Languages
