@@ -11,7 +11,7 @@ I'm a Full-Stack Ruby on Rails developer who interseted in all web's technologie
 ## Some Projects
 
 - Check Engine API For [CheckEngine](https://play.google.com/store/apps/details?id=com.checkengineapp.checkengine/) & [CheckEngine Provider](https://play.google.com/store/apps/details?id=com.checkengineprovidersapp.checkengineproviders/)
-- [ClassShare](https://class-share.onrender.com/)
+- [ClassShare](https://class-share.netlify.app/)
 - [SolarCo](https://solarco.onrender.com/)
 - [Airline](https://airline-system.onrender.com/)
 - [WeTrip](https://wetrip.onrender.com/)
