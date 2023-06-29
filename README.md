@@ -20,7 +20,7 @@ I'm a Full-Stack Ruby on Rails developer who interseted in all web's technologie
 - [PharmacySystem](http://pharmacy-syst.herokuapp.com/)
 - [NoteApp](https://note-app-va5a.onrender.com/)
 - [ToDoApp](https://todo-nodejs.glitch.me/)
-- [BookStore](https://booki-store.herokuapp.com/)
+- [BookStore](https://book-stores-rk50.onrender.com/)
 - [E-Commerce-API](https://ecommerce-api-q9rq.onrender.com/)
 - [ChatSystem-API](https://chat-system-vdyt.onrender.com/)
 - [CollegeTogether](https://college-get-together.onrender.com/)
