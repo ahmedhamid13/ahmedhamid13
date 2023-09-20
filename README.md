@@ -8,6 +8,8 @@ I'm a Full-Stack Ruby on Rails developer who interseted in all web's technologie
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamid13&show_icons=true&theme=dark&hide=html,css,blade&layout=compact)](https://github.com/ahmedhamid13/ahmedhamid13)
 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ahmedhamid13)](https://github.com/ahmedhamid13/ahmedhamid13)
+
 ## Some Projects
 
 - Check Engine API For [CheckEngine](https://play.google.com/store/apps/details?id=com.checkengineapp.checkengine) & [CheckEngine Provider](https://play.google.com/store/apps/details?id=com.checkengineprovidersapp.checkengineproviders)
