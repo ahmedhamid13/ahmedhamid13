@@ -4,11 +4,13 @@ I'm a Full-Stack Ruby on Rails developer who interseted in all web's technologie
 
 ## Stats
 
-[![Ahmed Abdelhamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhamid13&show_icons=true&theme=dark)](https://github.com/ahmedhamid13/ahmedhamid13)
+[![Ahmed Abdelhamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhamid13&show_icons=true&theme=dark)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamid13&show_icons=true&theme=dark&hide=html,css,blade&layout=compact)](https://github.com/ahmedhamid13/ahmedhamid13)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ahmedhamid13)](https://github.com/ahmedhamid13/ahmedhamid13)
+## GitHub Trophy
+
+<p align="center"> <a href="https://github.com/ahmedhamid13/ahmedhamid13"><img src="https://github-profile-trophy.vercel.app/?username=ahmedhamid13&theme=onedark" alt="Ahmed Abdelhamid" /></a> </p>
 
 ## Some Projects
 
